@@ -2,4 +2,6 @@ Text inside the file
 
 Added text
 Modified
-Addeed
+Added
+
+Develop changes
